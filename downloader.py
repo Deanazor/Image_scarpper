@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time, os
 
-food = input("Enter food name: ")
+food = input("Enter keyword: ")
 img_path = "./images/{}".format(food)
 num = int(input("How many? "))
 
