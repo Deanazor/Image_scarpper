@@ -3,7 +3,7 @@
 For Grow with Google: Bangkit Academy 2021 Capstone Project, Machine Learning Team Repository.</br>
 
 Project ID: B21-CAP0109<br>
-The team consist of:
+The ML team consist of:
 - Arief Pujo Arianto (M0080856) - Universitas Gadjah Mada
 - Chrystian (M0080859) - Universitas Gadjah Mada
 
@@ -14,3 +14,7 @@ Traditional food dataset we have develop contain Soto Ayam, Sate, Rendang, Nasi 
 Image Scraper Requirements :
 - Python 3
 - Selenium
+
+## Classification Model
+
+## Model Serving
